@@ -5,6 +5,7 @@
  
 **Pensamientos**: Estoy muy emocionado con este nuevo viaje.Comenzare el Front End Development Certification en freeCodeCamp.
 
-###Dia 1: Febrero 6,2017
+###Dia 1: Febrero 6, 2017
 **Progreso**: He terminado algunos ejercicios de HTML5 y CSS.
+
 **Pensamientos**: Aprender lo basico hace que me emocione cada vez mas a seguir aprendiendo.
