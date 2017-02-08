@@ -9,3 +9,6 @@
 **Progreso**: He terminado algunos ejercicios de HTML5 y CSS.
 
 **Pensamientos**: Aprender lo basico hace que me emocione cada vez mas a seguir aprendiendo.
+
+###Dia 2: Febrero 7, 2017
+**Progreso**: Complete varios ejercicios en Freecodecamp y practique con la consola de comandos en Ubuntu.
