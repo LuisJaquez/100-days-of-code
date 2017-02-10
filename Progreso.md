@@ -12,3 +12,9 @@
 
 ###Dia 2: Febrero 7, 2017
 **Progreso**: Complete varios ejercicios en Freecodecamp y practique con la consola de comandos en Ubuntu.
+
+###Dia 3: Febrero 8, 2017
+**Progreso**: Practicando con la terminal de Linux con Ubuntu 16.04
+
+###Dia 4: Febrero 9, 2017
+**Progreso**: Aprendiendo de estructura de datos.
