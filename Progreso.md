@@ -20,4 +20,4 @@
 **Progreso**: Aprendiendo de estructura de datos.
 
 ###Dia 5: Febrero 10, 2017
-**Progreso**:Implementando conceptos de youmightnotneedjs.
+**Progreso**: Implementando conceptos de youmightnotneedjs.
