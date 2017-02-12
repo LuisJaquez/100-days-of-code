@@ -21,3 +21,6 @@
 
 ###Dia 5: Febrero 10, 2017
 **Progreso**: Implementando conceptos de youmightnotneedjs.
+
+###Dia 6: Febrero 11, 2017
+**Progreso**: Empezando curso de Git.
