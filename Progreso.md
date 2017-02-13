@@ -27,3 +27,8 @@
 
 ###Dia 7: Febrero 12, 2017
 **Progreso**: Completando HTML y CSS en Freecodecamp.
+
+###Dia 8: Febrero 13, 2017
+**Progreso**: Aprendiendo Bootstrap en FreeCodeCamp.
+
+**Pensamientos**: Es sumamente simple hacer cosas con Bootstrap ya que me ahorra bastante tiempo.
