@@ -24,3 +24,6 @@
 
 ###Dia 6: Febrero 11, 2017
 **Progreso**: Empezando curso de Git.
+
+###Dia 7: Febrero 12, 2017
+**Progreso**: Completando HTML y CSS en Freecodecamp.
