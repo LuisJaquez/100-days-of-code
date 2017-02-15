@@ -32,3 +32,7 @@
 **Progreso**: Aprendiendo Bootstrap en FreeCodeCamp.
 
 **Pensamientos**: Es sumamente simple hacer cosas con Bootstrap ya que me ahorra bastante tiempo.
+
+###Dia 9: Febrero 14, 2017
+**Progreso**: Completando ejercicios de Bootstrap en FreeCodeCamp. 
+
