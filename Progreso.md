@@ -36,3 +36,7 @@
 ###Dia 9: Febrero 14, 2017
 **Progreso**: Completando ejercicios de Bootstrap en FreeCodeCamp. 
 
+
+###Dia 10: Febrero 15, 2017
+**Progreso**: Ha sido un dia improductivo solo puede completar unos cuantos ejercicios.
+
