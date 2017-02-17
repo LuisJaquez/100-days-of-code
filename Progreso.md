@@ -44,3 +44,5 @@
 **Progreso**: Por fin termine la seccion de Responsive Design with Bootstrap en FreeCodeCamp.
 
 
+###Dia 12: Febrero 17, 2017
+**Progreso**: Aprendiendo jQuery en FreeCodeCamp y practicando Javascript con el libro: A Smarter Way To Learn Javascript.
