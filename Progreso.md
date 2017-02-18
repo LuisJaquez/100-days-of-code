@@ -46,3 +46,7 @@
 
 ###Dia 12: Febrero 17, 2017
 **Progreso**: Aprendiendo jQuery en FreeCodeCamp y practicando Javascript con el libro: A Smarter Way To Learn Javascript.
+
+
+###Dia 13: Febrero 18, 2017
+**Progreso**:jQuery completado y comenzando a crear la pagina de tributo pero primero debo hacer el diseño en papel para que quede genial. Mi tributo sera dedicado a Nikola Tesla.
