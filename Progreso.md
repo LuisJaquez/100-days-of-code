@@ -52,6 +52,7 @@
 **Progreso**:jQuery completado y comenzando a crear la pagina de tributo pero primero debo hacer el diseño en papel para que quede genial. Mi tributo sera dedicado a Nikola Tesla.
 
 ###Dia 14: Febrero 19, 2017
-
-
 **Progreso**:Trabajando en la pagina de tributo.
+
+###Dia 15: Febrero 20, 2017
+**Progreso**:Estudiando estructura de datos y algoritmos en Coursera.
