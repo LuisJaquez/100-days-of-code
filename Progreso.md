@@ -56,3 +56,7 @@
 
 ###Dia 15: Febrero 20, 2017
 **Progreso**:Estudiando estructura de datos y algoritmos en Coursera.
+
+Día 16: Capítulos 4-6 #ASmarterWayToLearnJS ☑
+Completando curso de #Git 
+#100DaysOfCode
