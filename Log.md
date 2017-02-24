@@ -54,9 +54,19 @@
 ###Dia 14: Febrero 19, 2017
 **Progreso**:Trabajando en la pagina de tributo.
 
+
 ###Dia 15: Febrero 20, 2017
 **Progreso**:Estudiando estructura de datos y algoritmos en Coursera.
 
-Día 16: Capítulos 4-6 #ASmarterWayToLearnJS ☑
-Completando curso de #Git 
-#100DaysOfCode
+
+###Día 16: Febrero 21, 2017
+**Progreso**: Capítulos 4-6 leidos de "A Smarter Way To Learn JavaScript".Completando curso de #Git.
+
+
+###Día 17: Febrero 22, 2017
+**Progreso**: Poniendo en practica Git localmente. Empece a leer "Eloquent JavaScript".
+
+
+###Dia 18: Febrero 23, 2017
+**Progreso**:Practicando con jQuery. Mi laptop presento un pantallazo azul y he decidido moverme completamente a Ubuntu.
+
