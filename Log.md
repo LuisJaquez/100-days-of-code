@@ -14,7 +14,7 @@
 **Progreso**: Complete varios ejercicios en Freecodecamp y practique con la consola de comandos en Ubuntu.
 
 ###Dia 3: Febrero 8, 2017
-**Progreso**: Practicando con la terminal de Linux con Ubuntu 16.04
+**Progreso**: Practicando con la terminal de Linux con Ubuntu 16.04.
 
 ###Dia 4: Febrero 9, 2017
 **Progreso**: Aprendiendo de estructura de datos.
@@ -49,14 +49,14 @@
 
 
 ###Dia 13: Febrero 18, 2017
-**Progreso**:jQuery completado y comenzando a crear la pagina de tributo pero primero debo hacer el diseño en papel para que quede genial. Mi tributo será dedicado a Nikola Tesla.
+**Progreso**: jQuery completado y comenzando a crear la pagina de tributo pero primero debo hacer el diseño en papel para que quede genial. Mi tributo será dedicado a Nikola Tesla.
 
 ###Dia 14: Febrero 19, 2017
 **Progreso**:Trabajando en la pagina de tributo.
 
 
 ###Dia 15: Febrero 20, 2017
-**Progreso**:Estudiando estructura de datos y algoritmos en Coursera.
+**Progreso**: Estudiando estructura de datos y algoritmos en Coursera.
 
 
 ###Día 16: Febrero 21, 2017
@@ -68,5 +68,5 @@
 
 
 ###Dia 18: Febrero 23, 2017
-**Progreso**:Practicando con jQuery. Mi laptop presento un pantallazo azul y he decidido moverme completamente a Ubuntu.
+**Progreso**: Practicando con jQuery. Mi laptop presento un pantallazo azul y he decidido moverme completamente a Ubuntu.
 
