@@ -41,7 +41,7 @@
 **Progreso**: Ha sido un dia improductivo solo puede completar unos cuantos ejercicios.
 
 ###Dia 11: Febrero 16, 2017
-**Progreso**: Por fin termine la seccion de Responsive Design with Bootstrap en FreeCodeCamp.
+**Progreso**: Por fin termine la seccion de Responsive Design  with Bootstrap en FreeCodeCamp.
 
 
 ###Dia 12: Febrero 17, 2017
