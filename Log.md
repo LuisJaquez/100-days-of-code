@@ -70,3 +70,11 @@
 ###Dia 18: Febrero 23, 2017
 **Progreso**: Practicando con jQuery. Mi laptop presento un pantallazo azul y he decidido moverme completamente a Ubuntu.
 
+
+###Dia 19: Febrero 24, 2017
+**Progreso**: Pagina de tributo lista ahora a trabajar en mi pagina web.
+
+
+###Dia 20: Febrero 25, 2017
+**Progreso**:Intentando hacer algo genial con jQuery.
+
