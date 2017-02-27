@@ -78,3 +78,9 @@
 ###Dia 20: Febrero 25, 2017
 **Progreso**:Intentando hacer algo genial con jQuery.
 
+###Dia 21: Febrero 26, 2017
+**Progreso**:Trabajando en mi pagina web.
+
+###Dia 22: Febrero 27, 2017
+**Progreso**:Completando algunos ejercicios de JavasCript y trabajando en la pagina web.
+
