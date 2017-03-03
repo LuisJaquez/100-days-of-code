@@ -85,3 +85,15 @@
 ###Dia 22: Febrero 27, 2017
 **Progreso**:Completando algunos ejercicios de JavasCript y trabajando en la pagina web.
 
+###Dia 23: Febrero 28, 2017
+**Progreso**:Enfocado leyendo y practicando JavaScript todo el día.Energía Off por hoy.
+
+###Dia 24: Marzo 1, 2017
+**Progreso**: Rediseñando mi Personal Portfolio Site.
+
+###Dia 25: Marzo 2, 2017
+**Progreso**: Intentando hacer una imagen en CSS.
+
+
+
+
