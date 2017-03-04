@@ -94,6 +94,10 @@
 ###Dia 25: Marzo 2, 2017
 **Progreso**: Intentando hacer una imagen en CSS.
 
+###Dia 26: Marzo 3, 2017
+**Progreso**: Empezando un blog con Jekyll.
+
+
 
 
 
