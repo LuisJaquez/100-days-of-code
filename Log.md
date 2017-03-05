@@ -97,6 +97,9 @@
 ###Dia 26: Marzo 3, 2017
 **Progreso**: Empezando un blog con Jekyll.
 
+###Dia 27/28: Marzo 3 y 5, 2017
+**Progreso**: Trabajando en los ejercicios de Javascript en freeCodeCamp
+
 
 
 
