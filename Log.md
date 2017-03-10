@@ -97,8 +97,22 @@
 ###Dia 26: Marzo 3, 2017
 **Progreso**: Empezando un blog con Jekyll.
 
-###Dia 27/28: Marzo 3 y 5,2017
-**Progreso**: Trabajando en los ejercicios de Javascript en freeCodeCamp
+###Dia 27/28: Marzo 4 y 5,2017
+**Progreso**: Trabajando en los ejercicios de Javascript en freeCodeCamp.
+
+###Dia 29: Marzo 6, 2017
+**Progreso**: Estructura de datos en #Coursera Investigando sobre UX.
+
+###Dia 30: Marzo 7, 2017
+**Progreso**: CSS puede ser un dolor de cabeza.
+
+###Dia 31: Marzo 8, 2017
+**Progreso**: Leyendo #cleancode para mejorar mi código 🍝.
+
+
+###Dia 32: Marzo 9, 2017
+**Progreso**:Práctica con tutoriales en Youtube.
+
 
 
 
