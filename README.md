@@ -1,4 +1,4 @@
-# 100 Dias De Codigo
+# 100 Dias De Codigo.
 Aquí es donde comparto mi progreso diario del reto: #100DaysOfCode.
 
 # Mas Detalles Sobre El Proceso:
