@@ -120,6 +120,9 @@ Aprendiendo a instalar un Live Server local.
 ###Dia 35: Marzo 12, 2017
 **Progreso**:Continuando con Flexbox 😁.
 
+###Dia 36: Marzo 13, 2017
+**Progreso**:Una pequeña pausa a #freecodecamp para empezar el curso de python en #Codecademy.
+
 
 
 
