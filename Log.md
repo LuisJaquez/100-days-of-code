@@ -113,6 +113,13 @@
 ###Dia 32: Marzo 9, 2017
 **Progreso**:Práctica con tutoriales en Youtube.
 
+###Dia 33/34: Marzo 10 y 11, 2017
+**Progreso**:Iniciando con Flexbox 📦
+Aprendiendo a instalar un Live Server local.
+
+###Dia 35: Marzo 12, 2017
+**Progreso**:Continuando con Flexbox 😁.
+
 
 
 
