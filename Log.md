@@ -123,6 +123,8 @@ Aprendiendo a instalar un Live Server local.
 ###Dia 36: Marzo 13, 2017
 **Progreso**:Una pequeña pausa a #freecodecamp para empezar el curso de python en #Codecademy.
 
+###Dia 37: Marzo 14, 2017
+**Progreso**:Continuando con Python en en #Codecademy.
 
 
 
