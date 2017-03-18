@@ -1,5 +1,5 @@
 # 100 Dias De Codigo.
-Aquí es donde comparto mi progreso diario del reto: #100DaysOfCode.
+Aquí es donde comparto mi progreso diario del reto: #100DaysOfCode
 
 # Mas Detalles Sobre El Proceso:
 1. Cada dia subire un resumen de las cosas en que estoy trabajando.
