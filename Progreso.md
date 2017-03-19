@@ -126,6 +126,15 @@ Aprendiendo a instalar un Live Server local.
 ###Dia 37: Marzo 14, 2017
 **Progreso**:Continuando con Python en en #Codecademy.
 
+###Dia 38: Marzo 15, 2017
+**Progreso**:50% del curso de Python 🐍.
+
+###Dia 39/40: Marzo 16 y 17, 2017
+**Progreso**:Curso de Python 🐍 terminado. A retomar #freecodecamp 
+
+###Dia 41: Marzo 18, 2017
+**Progreso**:Completando ejercicios de Javascript en #freecodecamp
+
 
 
 
