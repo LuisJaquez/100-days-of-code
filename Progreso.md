@@ -135,6 +135,27 @@ Aprendiendo a instalar un Live Server local.
 ###Dia 41: Marzo 18, 2017
 **Progreso**:Completando ejercicios de Javascript en #freecodecamp
 
+###Dia 42: Marzo 19, 2017
+**Progreso**: Planificando en que proyecto trabajaré esta semana  🙆 y tratando de ver como empleo Python  en éste.🕵
+
+###Dia 43: Marzo 20, 2017
+**Progreso**:Javascript Basics Completado 😋
+
+###Dia 44: Marzo 21, 2017
+**Progreso**:Comenzando Object Oriented and Functional Programming.
+
+###Dia 45: Marzo 22, 2017
+**Progreso**:Me siento atrapado en la arena con Javascript 😓🏜
+
+###Dia 46/47: Marzo 23 y 24, 2017
+**Progreso**:Completando ejercicios​en #freeCodeCamp. Cada vez se vuelve mas duro 😌
+
+###Dia 48: Marzo 27, 2017
+**Progreso**:Practicando Javascript con #ASmarterWayToLearnJS
+
+
+
+
 
 
 
