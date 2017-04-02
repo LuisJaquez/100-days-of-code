@@ -153,6 +153,25 @@ Aprendiendo a instalar un Live Server local.
 ###Dia 48: Marzo 27, 2017
 **Progreso**:Practicando Javascript con #ASmarterWayToLearnJS
 
+###Dia 49: Marzo 28, 2017
+**Progreso**:Modificando a gusto mi blog en #Jekyll  y completando ejercicios en #freeCodeCamp.
+
+###Dia 50: Marzo 29, 2017
+**Progreso**:Increíble que ya este a la mitad de este reto y todo lo que he aprendido en tan poco tiempo.
+
+###Dia 51: Marzo 30, 2017
+**Progreso**:Leyendo #CleanCode y empezando curso de SQL en #Codecademy.
+
+###Dia 52: Marzo 31, 2017
+**Progreso**:SQL en #Codecademy .
+Practicando con #Sololearn en mis ratos libres.
+
+###Dia 53: Abril 1, 2017
+**Progreso**:Continuando SQL en #Codecademy .
+
+
+
+
 
 
 
