@@ -170,6 +170,18 @@ Practicando con #Sololearn en mis ratos libres.
 **Progreso**:Continuando SQL en #Codecademy .
 
 
+###Dia 54: Abril 2, 2017
+**Progreso**: Haciendo imágenes CSS.
+@codingartist_io ha sido de mucha ayuda. 😁
+
+###Dia 55: Abril 3, 2017
+**Progreso**: #SQL terminado 😎. Ahora a poner en práctica todo lo que aprendí 💻.
+
+###Dia 56: Abril 4, 2017
+**Progreso**: Trabajando con #jQuery .
+Poca actividad hoy.
+
+
 
 
 
