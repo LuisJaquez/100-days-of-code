@@ -181,6 +181,14 @@ Practicando con #Sololearn en mis ratos libres.
 **Progreso**: Trabajando con #jQuery .
 Poca actividad hoy.
 
+###Dia 57/58: Abril 5 y 6, 2017
+**Progreso**: Practicas con C++.
+Leyendo Eloquent Javascript.
+
+###Dia 59: Abril 7, 2017
+**Progreso**: Creando un scroll para mi sitio con Javascript.
+
+
 
 
 
