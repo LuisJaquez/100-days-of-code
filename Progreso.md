@@ -188,6 +188,34 @@ Leyendo Eloquent Javascript.
 ###Dia 59: Abril 7, 2017
 **Progreso**: Creando un scroll para mi sitio con Javascript.
 
+###Dia 60: Abril 8, 2017
+**Progreso**: Retomando #freecodecamp.
+
+###Dia 61: Abril 9, 2017
+**Progreso**: Usando #Chrome DevTools
+Por primera vez 😋.
+
+###Dia 62: Abril 10, 2017
+**Progreso**: Comenzando Visual Desing en #betafreeCodeCamp
+
+###Dia 63/64: Abril 11 y 12, 2017
+**Progreso**: Aprendiendo a usar Unity 3D con C#.
+Haciendo unos bocetos para los personajes de un juego que tengo en mente 🎮.
+
+###Dia 65: Abril 13, 2017
+**Progreso**: Continuando Visual Desing 📸.
+
+###Dia 66: Abril 14, 2017
+**Progreso**: Dia festivo 😁. Comiendo habichuelas con dulce🍵 mientras practico Javascript con #Sololearn.
+
+###Dia 67/68: Abril 15 y 16, 2017
+**Progreso**: Conseguí un dominio para mi portafolio 💼.
+Haciendo algoritmos con C++, espero terminar pronto.
+
+###Dia 69: Abril 17, 2017
+**Progreso**: rabajando en el curso Responsive Design en #Acamica.
+
+
 
 
 
