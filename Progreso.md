@@ -213,8 +213,17 @@ Haciendo unos bocetos para los personajes de un juego que tengo en mente 🎮.
 Haciendo algoritmos con C++, espero terminar pronto.
 
 ###Dia 69: Abril 17, 2017
-**Progreso**: rabajando en el curso Responsive Design en #Acamica.
+**Progreso**: Trabajando en el curso Responsive Design en #Acamica.
 
+###Dia 70: Abril 18, 2017
+**Progreso**: Continuando con #Responsive Desing en #Acamica.
+
+###Dia 71/72: Abril 19 y 20, 2017
+**Progreso**: Curso Responsive Desing terminado 😊.
+Ahora a trabajar en hacer mi portafolio #Responsive.
+
+###Dia 73: Abril 21, 2017
+**Progreso**: Completando Applied Visual Design.
 
 
 
