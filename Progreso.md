@@ -225,11 +225,36 @@ Ahora a trabajar en hacer mi portafolio #Responsive.
 ###Dia 73: Abril 21, 2017
 **Progreso**: Completando Applied Visual Design.
 
+###Dia 74: Abril 22, 2017
+**Progreso**: Aun en Applied Visual Design #freecodecamp
+Hice algunos cambios responsivos en mi sitio.
+
+###Dia 75: Abril 23, 2017
+**Progreso**: Applied Visual Design terminado #freecodecamp 😋.
+
+
+###Dia 76: Abril 24, 2017
+**Progreso**: Programación orientada a objetos en #javascript 
+🤓🍵.
+
+
+###Dia 77: Abril 25, 2017
+**Progreso**:Comenzando Object-Oriented JavaScript en @udemy para afilarme mas en el tema.
+
+###Dia 78: Abril 26, 2017
+**Progreso**:Object-Oriented JavaScript. 💻
+YDKJS Up & Going.📑
+Solo Learn.📱
+Un día productivo.
 
 
 
+###Dias 79/80: Abril 27 y 28, 2017
+**Progreso**:Objetos en JavaScript listo.
+Ahora a aprender sobre el DOM.
 
-
+###Dia 81: Abril 29, 2017
+**Progreso**:Object-Oriented JavaScript en @udemy 😁💻.
 
 
 
